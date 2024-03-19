@@ -2,7 +2,7 @@
 
 ## Description
 
-Rothko Painting is a web project built as a part of the FreeCodeCamp curriculum
+Rothko Painting is a web project built as a part of the FreeCodeCamp curriculum.
 
 ## Learning Objectives
 
