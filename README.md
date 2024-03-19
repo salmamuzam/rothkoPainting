@@ -1,12 +1,10 @@
-# Rothko Painting Project
+# Rothko Painting 
 
 ## Description
 
 Rothko Painting is a web project built as a part of the FreeCodeCamp curriculum.
 
 ## Learning Objectives
-
-Through this project, we focus on mastering various CSS techniques, including:
 
 - Understanding the CSS Box Model
 - Applying margins, padding, borders, and border radius effectively
@@ -22,5 +20,5 @@ The project primarily utilizes HTML and CSS. Here's a brief overview of the tech
 
 ## Credits
 
-- freeCodeCamp (https://www.freecodecamp.org/): Provided the curriculum.
+- freeCodeCamp (https://www.freecodecamp.org/)
 
